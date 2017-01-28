@@ -17,7 +17,7 @@ OR
 * Create a git alias in your `.gitconfig`
 ```ini
 [alias]
-    build = "!bash /path/to/git-compare-branches/git-compare-branches.sh
+    compare-branches = "!bash /path/to/git-compare-branches/git-compare-branches.sh"
 ```
 
 ## Usage
